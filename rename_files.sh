@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # 切换到 wiki_zh 目录
-cd wiki_zh
+#cd wiki_zh
+cd try
 
 # 遍历所有子目录
 for dir in */ ; do
